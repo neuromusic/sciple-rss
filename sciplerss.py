@@ -1,5 +1,6 @@
 #!/usr/local/bin/python2.7
 # -*- coding: UTF8 -*-
+# from http://sciple.org/code/rss-management/
 
 from string import Template
 from xml.etree.ElementTree import ElementTree
